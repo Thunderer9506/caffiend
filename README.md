@@ -63,7 +63,7 @@ Caffiend is a full-stack React application for coffee enthusiasts to track their
 
 ## Live Website
 
-- [Caffiend Live](https://caffiend.vercel.app)
+- [Caffiend Live](project-caffiend.netlify.app)
 
 ## Credits
 
